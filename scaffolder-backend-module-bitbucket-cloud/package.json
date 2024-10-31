@@ -1,5 +1,5 @@
 {
-  "name": "@wmflor/backstage-plugin-scaffolder-backend-module-bitbucket-cloud",
+  "name": "@wmenezes/backstage-plugin-scaffolder-backend-module-bitbucket-cloud",
   "description": "The bitbucket-cloud module for @backstage/plugin-scaffolder-backend",
   "version": "0.1.0",
   "main": "src/index.ts",
